@@ -11,4 +11,4 @@ Including images
 
 ![Ref style link][image_1]
 
-[logo]: /_images/amig_1.png
+[image_1]: /_images/amig_1.png
