@@ -3,14 +3,14 @@
     https://sourceforge.net/projects/sserver/
 2. Töltsd le és telepítsd a Boost libeket: 
     http://www.boost.org/users/download/
-3. Álltsd be az rcsservert:  
-  1. Lépj be a könyvtárba és futtasd:
+3. Állítsd be az rcsservert:  
+  Lépj be a könyvtárba és futtasd:
   ```
   ./configure  
   make  
   make install  
   ``` 
-  Dependenciákat kiírja.  
+  A dependenciákat kiírja.  
   > Ha a `./configure` lefut, de a `make` nem akkor a `./configure` másodszori lefuttatása segíthet.
 4. Futtasd:
 
