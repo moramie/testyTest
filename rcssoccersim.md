@@ -27,5 +27,5 @@ sudo apt-get update rssmonitor
 ```
 aminek kell egy env_variable: `export RCSSMONITOR='/usr/bin/rcssmonitor'`
 
-Ha az rcsserver 'make install'-lal települt akkor az `rcsocceersim` paranccsal bárhonnan indítható a szerver és kliens program is egyszerre.
+Ha az rcsserver `make install`-lal települt akkor az `rcsocceersim` paranccsal bárhonnan indítható a szerver és kliens program is egyszerre.
 Egy szimulált környezetben való játékra ad lehetőséget.
