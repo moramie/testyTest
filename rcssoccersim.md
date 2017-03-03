@@ -11,7 +11,7 @@
   make install  
   ``` 
   Dependenciákat kiírja.  
-  > Ha a './configure' lefut, de a 'make' nem akkor a './configure' másodszori lefuttatása segíthet.
+  > Ha a `./configure` lefut, de a `make` nem akkor a `./configure` másodszori lefuttatása segíthet.
 4. Futtasd:
 
   ``` 
